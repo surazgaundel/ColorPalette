@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import rgbToHex from './rgbToHex';
 
 export default function SingleColor({rgb,weight,index}) {
