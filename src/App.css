@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+div{
+    display:grid;
+    grid-template-columns:repeat(7,1fr);
+}
+/* article{
+    width:25%;
+    height:10vh;
+} */
